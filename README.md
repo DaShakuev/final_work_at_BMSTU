@@ -16,13 +16,13 @@
 ### Coverage path generation
 
 <p align="center">
-  <img src="final_work_at_BMSTU/photos/finalPLOT/exp3/poligon_1/poligon_cpp_6.png" width="700"/>
+  <img src="photos/finalPLOT/exp3/poligon_1/poligon_cpp_6.png" width="700"/>
 </p>
 
 ### Simulated vehicle motion
 
 <p align="center">
-  <img src="final_work_at_BMSTU/photos/expFinal/Screenshot from 2024-06-03 02-50-11.png" width="700"/>
+  <img src="photos/expFinal/Screenshot from 2024-06-03 02-50-11.png" width="700"/>
 </p>
 
 ---
